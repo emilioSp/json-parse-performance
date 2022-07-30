@@ -1,0 +1,19 @@
+{
+  "name": "json-parse-performance",
+  "version": "1.0.0",
+  "description": "Simple repo to test the performance for parsing a big json file.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilioSp/json-parse-performance.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emilioSp/json-parse-performance/issues"
+  },
+  "homepage": "https://github.com/emilioSp/json-parse-performance#readme"
+}
