@@ -1,2 +1,1 @@
-# json-parse-performance
-Simple repo to test the performance for parsing a big json file.
+# It takes 70ms on MacBook Pro M1 Pro battery powered 
