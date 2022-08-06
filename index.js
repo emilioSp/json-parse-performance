@@ -8,5 +8,5 @@ console.timeEnd('json_parse_perf');
 
 // data is an array of 11351 items
 console.time('json_find');
-const lastEntry = data.find(d => d.id === '2489678844');
+const lastItem = data.find(d => d.id === '2489678844');
 console.timeEnd('json_find');
